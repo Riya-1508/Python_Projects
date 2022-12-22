@@ -116,4 +116,4 @@ d.place(x=450,y=430)
 p= Label(text="....",font=('arial',21,'bold'),bg='#1ab5ef')
 p.place(x=670,y=430)
 root.config(bg="#E1BEE7")
-root.mainloop(
+root.mainloop()
